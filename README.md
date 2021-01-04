@@ -4,6 +4,6 @@ NOTE : Click on "Hex" on the NavBar. And then get a new Hexcode every time you h
 
 Sample Images :
 
-![alt text](https://github.com/[apex-blaze]/[Color-Generator]/blob/[main]/imgs/Screenshot (355).png?raw=true)
-![alt text](https://github.com/[apex-blaze]/[Color-Generator]/blob/[main]/imgs/Screenshot (356).png?raw=true)
-![alt text](https://github.com/[apex-blaze]/[Color-Generator]/blob/[main]/imgs/Screenshot (357).png?raw=true)
+![alt text](https://github.com/[apex-blaze]/[Color-Generator]/blob/[main]/imgs/Screenshot%20(355).png?raw=true)
+![alt text](https://github.com/[apex-blaze]/[Color-Generator]/blob/[main]/imgs/Screenshot%20(356).png?raw=true)
+![alt text](https://github.com/[apex-blaze]/[Color-Generator]/blob/[main]/imgs/Screenshot%20(357).png?raw=true)
